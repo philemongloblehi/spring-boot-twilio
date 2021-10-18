@@ -1,0 +1,4 @@
+twilio:
+  account_sid: your_account_sid
+  auth_token: your_auth_token
+  trial_number: your_trial_number
